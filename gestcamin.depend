@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1516783462 source:/home/florea/Projects/gestcamin/Camera.cpp
+	"Camera.h"
+
+1516793011 /home/florea/Projects/gestcamin/Camera.h
+	<string>
+	<vector>
+
+1516783281 source:/home/florea/Projects/gestcamin/main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"Camera.h"
+	"Student.h"
+	"Functii.h"
+
+1516023736 /home/florea/Projects/gestcamin/Student.h
+	<string>
+	<vector>
+
+1516792838 /home/florea/Projects/gestcamin/Functii.h
+
+1516023750 source:/home/florea/Projects/gestcamin/Student.cpp
+	"Student.h"
+
